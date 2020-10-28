@@ -1,0 +1,12 @@
+ 
+{
+    "name": "units",
+    "version": "1.0.0",
+    "build": {
+        "includeDir": "src/include",
+        "srcFilter":
+        [
+            ".<*>"
+        ]
+    }
+}
